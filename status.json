@@ -1,6 +1,6 @@
 {
   "maintenance": true,
-  "minimumVersion": "1.1.1",
+  "minimumVersion": "1.0.0",
   "discord": "https://discord.gg/TE6YCaDQ8M",
   "updateMessage": "A new version is available.\n\nPlease download the latest version\nfrom our Discord server.\n\nThank you for your support 💜",
   "maintenanceMessage": "Maintenance in progress"
