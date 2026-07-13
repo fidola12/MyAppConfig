@@ -3,5 +3,6 @@
   "minimumVersion": "1.1.0",
   "latestVersion": "1.1.0",
   "discord": "https://discord.gg/Te6YCaDQ8M",
-  "message": "🛠️ Maintenance in Progress\n\nWe're currently rolling out a brand-new update to improve your experience.\n\n📥 Please join our Discord server to download the latest version of the application.\n\n💜 Thank you for your patience and support!"
+  "message": "🛠️ Maintenance in Progress\n\nWe're currently rolling out a brand-new update.",
+  "updateMessage": "⬆️ Update Required\n\nA new version is available.\n\nPlease download the latest version from Discord."
 }
